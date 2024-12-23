@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightblue;
+    background-image: linear-gradient(lightblue,lightgray);
     margin: 0;
 }
 
@@ -15,7 +15,7 @@ article {
 
 nav {
     background-color: lightgreen;
-    background-image: linear-gradient(lightblue,lightgray);
+    
     padding: 30px;
     text-align: center;
     

@@ -39,6 +39,7 @@ p a {
 p {
    width: 50%;
    text-size: 25px;
+    margin: 20px auto
 }
 
 nav a:hover {
@@ -47,7 +48,7 @@ nav a:hover {
 }
 
     
-   margin: 20px auto
+   
 
-}
+
 

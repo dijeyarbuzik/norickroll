@@ -42,7 +42,7 @@ p {
     margin: 20px auto
 }
 
-nav a:hover {
+a:hover {
     color: lightblue;
     transition: 2s color linear;
 }

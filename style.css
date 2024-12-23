@@ -42,7 +42,7 @@ p {
 }
 
 a:hover {
-    color: lightblue;
+    color: blueviolet;
     transition: 2s color linear;
 }
 

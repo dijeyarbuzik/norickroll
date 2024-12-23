@@ -46,6 +46,13 @@ a:hover {
     transition: 2s color linear;
 }
 
+
+aside {
+   position: absolute;
+   right: 0;
+   top: 100px;
+} 
+
     
    
 

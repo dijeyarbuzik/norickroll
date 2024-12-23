@@ -1,6 +1,7 @@
 body {
     font-family: sans-serif;
     background-color: lightblue;
+    margin: 0;
 }
 
 h1  {
@@ -33,5 +34,10 @@ nav a {
 p a {
     text-decoration: none;
     color: blue;
+}
+
+p {
+   width: 50%;
+
 }
 

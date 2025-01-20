@@ -46,7 +46,7 @@ p {
 
 a:hover {
     color: blueviolet;
-    transition: 2s color linear;
+    transition: 0.7s color linear;
 }
 
 
